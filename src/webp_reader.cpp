@@ -25,6 +25,9 @@
 #include <mapnik/debug.hpp>
 #include <mapnik/image_reader.hpp>
 
+#include <algorithm>
+
+
 #pragma GCC diagnostic push
 #include <mapnik/warning_ignore.hpp>
 extern "C"
